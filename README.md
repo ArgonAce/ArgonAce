@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUlil7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUlil7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadUlil7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Quote
 <div xmlns="http://www.w3.org/1999/xhtml" class="container">
      <h3>" Sometimes the best things in life take a while. "</h3>
