@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is MUhammad Ulil Albab<br>🤠 I am 18 years old<br>🧑‍🎓I am a student <br>⚡ I like Game<br>📙 I’m currently learning HTML, CSS, and JavaScript<br>🔭 I’m currently working on my project<br>
+👋 My name is Muhammad Ulil Albab<br>🤠 I am 18 years old<br>🧑‍🎓I am a student <br>⚡ I like Game<br>📙 I’m currently learning HTML, CSS, and JavaScript<br>🔭 I’m currently working on my project<br>
 
 
 ## 🌐 Socials:
