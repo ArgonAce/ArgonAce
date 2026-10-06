@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammad+Ulil+Albab!+👋;Aspiring+Frontend+Developer+💻;Student+%26+Gamer+🎮" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=%20Hi+there,+I'm+Muhammad+Ulil+Albab!+👋;%20Aspiring+Frontend+Developer+💻;%20Student+%26+Gamer+🎮" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -55,9 +55,7 @@
 
 <div align="center">
   <p><b>Visitor Count</b></p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ArgonAce&icon=0&color=1" alt="Visitor Count"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ArgonAce&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count"/>
   <br><br>
   <p><b>☕ You can support my work by Donating</b></p>
   <a href="https://paypal.me/MuhammadUlil7">
