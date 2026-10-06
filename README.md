@@ -55,7 +55,7 @@
 
 <div align="center">
   <p><b>Visitor Count</b></p>
-  <img src="https://komarev.com/ghpvc/?username=ArgonAce&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count"/>
+  <img src="https://visits.nn.ci/badge?page_id=ArgonAce&left_color=black&right_color=00FF99&left_text=Profile%20Views" alt="Visitor Count"/>
   <br><br>
   <p><b>☕ You can support my work by Donating</b></p>
   <a href="https://paypal.me/MuhammadUlil7">
